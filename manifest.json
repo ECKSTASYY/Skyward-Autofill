@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Skyward AutoFill :)",
+  "description": "Basic AutoFill For Skyward :) / Made With Love By ECK$TASY / Works For ECISD, McAllen, La Joya But May Work For Other Random Districts",
+  "version": "1.0",
+  "action": {
+    "default_popup": "main.html",
+    "default_icon": "ecks.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["scripts/content.js"],
+      "matches": [
+        "http://*/*/*/*/*",
+        "https://skyward.iscorp.com/scripts/wsisa.dll/WService=wseduedinburgtx/seplog01.w",
+        "https://skyweb.mcallenisd.net/scripts/wsisa.dll/WService=wsEAplus/seplog01.w",
+        "https://skyward.lajoyaisd.com/scripts/wsisa.dll/WService=wsEAplus/seplog01.w"
+      ]
+    }
+  ]
+}
