@@ -1,13 +1,13 @@
 const login = document.getElementById("login");
 if (login) {
-  var text = "151997";
+  var text = "";
   login.value = text;
   console.log("done");
 }
 
 const password = document.getElementById("password");
 if (password) {
-  var text = "09062005";
+  var text = "";
   password.value = text;
   console.log("done");
 }
