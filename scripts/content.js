@@ -5,7 +5,7 @@
 
 const login = document.getElementById("login");
 if (login) {
-  login.value = useremail; // UPDATE THIS PART WITH YOUR LOGIN EX; 15122
+  login.value = useremail;
 }
 
 const password = document.getElementById("password");
