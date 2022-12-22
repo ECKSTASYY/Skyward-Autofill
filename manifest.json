@@ -9,7 +9,7 @@
   },
   "content_scripts": [
     {
-      "js": ["scripts/content.js"],
+      "js": ["scripts/main.js"],
       "matches": [
         "http://*/*/*/*/*",
         "https://skyward.iscorp.com/scripts/wsisa.dll/WService=wseduedinburgtx/seplog01.w",
