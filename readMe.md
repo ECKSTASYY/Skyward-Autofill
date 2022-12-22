@@ -44,7 +44,7 @@ MIT
 
 ---
 
-> [ECKSTASY.COM](https://eckstasy.com) &nbsp;&middot;&nbsp;
+> Site [ECKSTASY.COM](https://eckstasy.com) &nbsp;&middot;&nbsp;
 > GitHub [@ECKSTASYY](https://github.com/ECKSTASYY) &nbsp;&middot;&nbsp;
 > Twitter [@ECKSTASYYY](https://twitter.com/eckstasyyy)
 
