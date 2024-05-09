@@ -31,17 +31,6 @@
 
 
 
-
-## Support
-
-<p>Just Star My Shit, Im Chasin Greatness.</p> 
-<p>Also Just Reach Out If You Need more help, Im always happy to help.</p> 
-
-
-## License
-
-MIT
-
 ---
 
 > Site [ECKSTASY.COM](https://eckstasy.com) &nbsp;&middot;&nbsp;
